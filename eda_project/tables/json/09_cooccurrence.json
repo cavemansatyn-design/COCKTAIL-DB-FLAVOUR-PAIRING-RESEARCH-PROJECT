@@ -1,0 +1,99 @@
+{
+  "top_n": 40,
+  "n_recipes": 16872,
+  "min_cooccurrence": 25,
+  "n_edges": 166,
+  "top_pmi_edges": [
+    {
+      "a": "irish cream",
+      "b": "whipped cream",
+      "cooc": 72,
+      "pmi": 2.085465656283217
+    },
+    {
+      "a": "coffee liqueur",
+      "b": "irish cream",
+      "cooc": 141,
+      "pmi": 2.076570451565194
+    },
+    {
+      "a": "lemon",
+      "b": "blue curacao",
+      "cooc": 40,
+      "pmi": 1.874152019546576
+    },
+    {
+      "a": "irish cream",
+      "b": "milk",
+      "cooc": 61,
+      "pmi": 1.832913818484655
+    },
+    {
+      "a": "triple sec",
+      "b": "tequila",
+      "cooc": 211,
+      "pmi": 1.816974775753165
+    },
+    {
+      "a": "coffee liqueur",
+      "b": "milk",
+      "cooc": 86,
+      "pmi": 1.8157727086220385
+    },
+    {
+      "a": "grenadine syrup",
+      "b": "apple juice",
+      "cooc": 67,
+      "pmi": 1.7506428322313847
+    },
+    {
+      "a": "coconut rum",
+      "b": "melon liqueur",
+      "cooc": 74,
+      "pmi": 1.7451796030839892
+    },
+    {
+      "a": "tequila",
+      "b": "rum",
+      "cooc": 96,
+      "pmi": 1.6849552948668751
+    },
+    {
+      "a": "grenadine syrup",
+      "b": "dark rum",
+      "cooc": 49,
+      "pmi": 1.6763629732063026
+    },
+    {
+      "a": "pineapple juice",
+      "b": "coconut rum",
+      "cooc": 159,
+      "pmi": 1.6627208517128473
+    },
+    {
+      "a": "white rum",
+      "b": "dark rum",
+      "cooc": 63,
+      "pmi": 1.6503074964018474
+    },
+    {
+      "a": "melon liqueur",
+      "b": "blue curacao",
+      "cooc": 37,
+      "pmi": 1.6351787078696605
+    },
+    {
+      "a": "coconut rum",
+      "b": "blue curacao",
+      "cooc": 52,
+      "pmi": 1.6155017797754565
+    },
+    {
+      "a": "sweet vermouth",
+      "b": "dry vermouth",
+      "cooc": 39,
+      "pmi": 1.6018950946243662
+    }
+  ],
+  "caveat": "Co-occurrence and PMI measure joint recipe incidence, not flavor chemistry or causality."
+}

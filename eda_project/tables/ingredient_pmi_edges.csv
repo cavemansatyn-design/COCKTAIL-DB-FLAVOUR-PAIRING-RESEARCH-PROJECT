@@ -1,0 +1,167 @@
+a,b,cooc,pmi
+irish cream,whipped cream,72,2.085465656283217
+coffee liqueur,irish cream,141,2.076570451565194
+lemon,blue curacao,40,1.874152019546576
+irish cream,milk,61,1.832913818484655
+triple sec,tequila,211,1.816974775753165
+coffee liqueur,milk,86,1.8157727086220385
+grenadine syrup,apple juice,67,1.7506428322313847
+coconut rum,melon liqueur,74,1.7451796030839892
+tequila,rum,96,1.6849552948668751
+grenadine syrup,dark rum,49,1.6763629732063026
+pineapple juice,coconut rum,159,1.6627208517128473
+white rum,dark rum,63,1.6503074964018474
+melon liqueur,blue curacao,37,1.6351787078696605
+coconut rum,blue curacao,52,1.6155017797754565
+sweet vermouth,dry vermouth,39,1.6018950946243662
+rum,blue curacao,42,1.5968506631493558
+coconut rum,apple juice,69,1.591634298368813
+milk,whipped cream,34,1.5687749130648283
+cranberry juice,peach schnapps,92,1.5656640047475852
+apple juice,dark rum,40,1.5614157280638887
+gin,dry vermouth,116,1.5489691113894668
+sugar syrup,soda water,40,1.539706417005458
+orange juice,grenadine syrup,160,1.4809353125603957
+peach schnapps,melon liqueur,46,1.4517197453983677
+grenadine,blue curacao,28,1.4476813136723017
+coconut rum,peach schnapps,65,1.4374628847735027
+fresh lemon juice,angostura bitters,35,1.420294019339357
+rum,lemon,37,1.4079671764032056
+tequila,blue curacao,48,1.380031415980588
+pineapple juice,grenadine,74,1.349100484999854
+white rum,apple juice,59,1.346117751660777
+grenadine syrup,almond liqueur,34,1.3320840217912844
+apple juice,almond liqueur,31,1.3277043005145455
+gin,rum,127,1.3194805102352531
+coffee liqueur,whipped cream,48,1.3193860062322398
+orange juice,peach schnapps,136,1.3119578030232089
+white rum,grenadine syrup,62,1.3077210939458725
+sweet vermouth,angostura bitters,27,1.292738668650116
+irish cream,almond liqueur,32,1.2866936445466974
+ice,tequila,105,1.2857207365093468
+triple sec,rum,87,1.2813754007249725
+lemonade,melon liqueur,47,1.2578377160725995
+pineapple juice,blue curacao,59,1.254500378743952
+pineapple juice,dark rum,62,1.2359595147161058
+orange juice,dark rum,90,1.2321572287663674
+apple juice,melon liqueur,33,1.2140380892694407
+sugar,lemon,34,1.2027323946923947
+pineapple juice,melon liqueur,70,1.2023146255733819
+coffee liqueur,almond liqueur,42,1.1980128180875267
+lemon juice,sugar syrup,123,1.1748477838268312
+peach schnapps,grenadine,31,1.1482815616660802
+lemonade,grenadine syrup,50,1.148132804828145
+coconut rum,grenadine syrup,47,1.119681796627336
+peach schnapps,grenadine syrup,39,1.1150596800763768
+simple syrup,fresh lemon juice,85,1.1112726308525804
+orange liqueur,brandy,34,1.1101155253501362
+ice,blue curacao,42,1.1080039461021405
+tequila,lemon,38,1.0842847836920766
+orange juice,apple juice,96,1.0581032876486813
+ice,lemon,41,1.0217746134160737
+fresh lime juice,angostura bitters,27,1.0151832650162642
+white rum,soda water,37,1.007653255987424
+ice,rum,56,1.007462716880263
+lemon juice,simple syrup,277,0.9987890519517135
+sugar,brandy,35,0.9942220667997541
+orange juice,almond liqueur,68,0.973036085691656
+white rum,sugar syrup,37,0.9682263360079661
+coconut rum,grenadine,31,0.9663177226366273
+simple syrup,fresh lime juice,84,0.9538386143675698
+pineapple juice,white rum,85,0.9475204199664359
+orange juice,grenadine,72,0.9452239395768277
+triple sec,grenadine syrup,62,0.9361011025123871
+vodka,peach schnapps,154,0.9340643508511273
+cranberry juice,orange liqueur,47,0.9311857757919954
+vodka,lemonade,188,0.9181654767207158
+simple syrup,club soda,47,0.9143493249479453
+coconut rum,almond liqueur,27,0.913137944110587
+triple sec,brandy,55,0.911394123103619
+peach schnapps,apple juice,29,0.9067874627874809
+gin,tequila,118,0.8956274084490364
+ice,whipped cream,36,0.8947380787073016
+white rum,club soda,27,0.8938388523839327
+vodka,blue curacao,99,0.8934140448882516
+orange juice,coconut rum,107,0.8901679127196099
+vodka,rum,145,0.8868046355005778
+gin,sweet vermouth,71,0.8852635096139276
+cranberry juice,apple juice,42,0.8759972248756015
+lime juice,sugar syrup,95,0.8698277189596685
+orange juice,cranberry juice,130,0.8656733415339657
+grenadine syrup,rum,30,0.8656545602513912
+ice,coconut rum,59,0.8647254863788749
+lime juice,tequila,159,0.8642832399262016
+vodka,lemon,102,0.8611352269309265
+gin,triple sec,154,0.8567555650683507
+lemonade,coconut rum,45,0.8543498701014537
+pineapple juice,rum,58,0.8491826437109934
+orange juice,pineapple juice,167,0.8480377643186622
+lemonade,almond liqueur,26,0.8419732206104618
+lemonade,peach schnapps,37,0.8405691320048114
+cranberry juice,coconut rum,53,0.8322035022212138
+vodka,cranberry juice,207,0.8286665154940935
+coconut rum,whipped cream,25,0.8240186984946493
+lime juice,triple sec,206,0.8181153851669012
+lime juice,simple syrup,241,0.812855878159744
+lemon juice,gin,272,0.8025800254748766
+white rum,coconut rum,45,0.7988267796022358
+lemonade,lemon,25,0.787577709437945
+cranberry juice,melon liqueur,35,0.7772623841899126
+cranberry juice,almond liqueur,29,0.7653967209134115
+peach schnapps,rum,27,0.7538354645541528
+gin,lemon,52,0.7526286629247414
+triple sec,lemon,37,0.7524767152812653
+vodka,triple sec,241,0.739377365448718
+triple sec,ice,82,0.7333398122874266
+white rum,sugar,39,0.729971525950773
+vodka,melon liqueur,105,0.7291109935969753
+vodka,coffee liqueur,175,0.7229760050294591
+lime juice,white rum,128,0.7138894717304232
+triple sec,almond liqueur,35,0.7120816621456898
+triple sec,melon liqueur,41,0.694119099134145
+lemonade,apple juice,29,0.6913992282407492
+lime juice,club soda,62,0.6837787754200811
+pineapple juice,grenadine syrup,49,0.6740593666721073
+triple sec,peach schnapps,48,0.6737091483357746
+simple syrup,soda water,45,0.6695975699718024
+triple sec,sugar,53,0.6650818019397629
+ice,peach schnapps,40,0.6580313356165449
+triple sec,cranberry juice,70,0.649839353268469
+white rum,melon liqueur,27,0.6480038898676521
+pineapple juice,peach schnapps,48,0.6469814994299599
+coconut rum,rum,29,0.6433305895068449
+white rum,fresh lime juice,36,0.6403410171220831
+lime juice,orange liqueur,87,0.6358413978947306
+orange juice,champagne,44,0.6205679205821883
+orange juice,triple sec,128,0.608801864727339
+orange juice,melon liqueur,56,0.60269350302426
+fresh lime juice,orange liqueur,25,0.5837719749635149
+ice,white rum,48,0.5694415673645502
+lime juice,pineapple juice,163,0.5572617682782677
+orange juice,white rum,83,0.5472322000378054
+lemonade,rum,27,0.5384472300074215
+cranberry juice,lemonade,40,0.5173666472657499
+tequila,peach schnapps,30,0.508845340418689
+tequila,melon liqueur,25,0.5045626786266882
+triple sec,dark rum,29,0.5028486085633029
+pineapple juice,cranberry juice,62,0.5017508473583868
+vodka,tequila,140,0.5013626758960175
+gin,blue curacao,38,0.5011028851767059
+lemon juice,club soda,49,0.49517728958090207
+ice,irish cream,33,0.4873522675803485
+triple sec,white rum,52,0.48284053096336166
+orange juice,tequila,83,0.4807520299329698
+triple sec,apple juice,36,0.4804792547776818
+tequila,orange liqueur,28,0.47701521531512925
+vodka,orange juice,277,0.4753927180046748
+lime juice,dark rum,55,0.47314835923817167
+simple syrup,angostura bitters,31,0.46592806550481136
+gin,simple syrup,122,0.4616437356797469
+lime juice,ice,122,0.4609040051853017
+white rum,lemonade,33,0.455247455781118
+lime juice,soda water,60,0.44972230956068626
+ice,sugar,36,0.4449525709184759
+gin,fresh lemon juice,52,0.441871506358196
+lemon juice,soda water,56,0.42744203916902085
+tequila,grenadine syrup,27,0.4099434048002746
+lemon juice,brandy,62,0.4081703194403972

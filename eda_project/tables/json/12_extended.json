@@ -1,0 +1,120 @@
+{
+  "bayes_m": 10.0,
+  "bayes_C": 4.3163328807639,
+  "bayes_n": 7878,
+  "bayes_formula": "adj = (V*R + m*C) / (V + m)",
+  "top10_adj": [
+    {
+      "name": "El Diablo Cocktail",
+      "rating_analyzed": 5.0,
+      "votes_analyzed": 74.0,
+      "adj_rating": 4.9186110572337975
+    },
+    {
+      "name": "Simple Syrup",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 304.0,
+      "adj_rating": 4.881411875183564
+    },
+    {
+      "name": "Grandma's Apple Pie 'Ala Mode' Moonshine",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 219.0,
+      "adj_rating": 4.874512352871786
+    },
+    {
+      "name": "Skeleton Key Cocktail",
+      "rating_analyzed": 5.0,
+      "votes_analyzed": 33.0,
+      "adj_rating": 4.841007646689279
+    },
+    {
+      "name": "Whiskey Slush",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 80.0,
+      "adj_rating": 4.835148097862656
+    },
+    {
+      "name": "Easy Frozen Margaritas",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 72.0,
+      "adj_rating": 4.828821083019988
+    },
+    {
+      "name": "Sex on the Beach",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 70.0,
+      "adj_rating": 4.827041610095487
+    },
+    {
+      "name": "Irish Old Fashioned",
+      "rating_analyzed": 4.9,
+      "votes_analyzed": 66.0,
+      "adj_rating": 4.823201694837356
+    },
+    {
+      "name": "Vruca Rakija Recipe",
+      "rating_analyzed": 5.0,
+      "votes_analyzed": 27.0,
+      "adj_rating": 4.815225102909162
+    },
+    {
+      "name": "Easy Mojitos",
+      "rating_analyzed": 5.0,
+      "votes_analyzed": 24.0,
+      "adj_rating": 4.798921435518794
+    }
+  ],
+  "boxplot_categories": [
+    "Fruity Cocktails",
+    "Tequila Cocktails",
+    "Martinis",
+    "Margaritas",
+    "Gin Drinks",
+    "Rum Cocktails",
+    "Champagne Drinks",
+    "Fall Cocktails",
+    "Whiskey Cocktails",
+    "Gin Cocktails"
+  ],
+  "boxplot_n_per_category": {
+    "Fruity Cocktails": 108,
+    "Tequila Cocktails": 67,
+    "Martinis": 65,
+    "Margaritas": 61,
+    "Gin Drinks": 57,
+    "Rum Cocktails": 56,
+    "Champagne Drinks": 55,
+    "Fall Cocktails": 54,
+    "Whiskey Cocktails": 53,
+    "Gin Cocktails": 53
+  },
+  "boxplot_median_minutes": {
+    "Fruity Cocktails": 5.0,
+    "Tequila Cocktails": 3.0,
+    "Martinis": 5.0,
+    "Margaritas": 5.0,
+    "Gin Drinks": 5.0,
+    "Rum Cocktails": 5.0,
+    "Champagne Drinks": 5.0,
+    "Fall Cocktails": 5.0,
+    "Whiskey Cocktails": 3.0,
+    "Gin Cocktails": 3.0
+  },
+  "boxplot_p99": 27.200000000000273,
+  "boxplot_n_total": 629,
+  "zipf_stratum_n": {
+    "r 1\u201310": 10,
+    "r 11\u201350": 40,
+    "r 51\u2013200": 150,
+    "r 201\u20131000": 800,
+    "r > 1000": 13466
+  },
+  "zipf_stratum_median_log10f": {
+    "r 1\u201310": 3.0565185351976303,
+    "r 11\u201350": 2.5544785999392667,
+    "r 51\u2013200": 1.9518162580421188,
+    "r 201\u20131000": 1.1760912590556813,
+    "r > 1000": 0.0
+  }
+}

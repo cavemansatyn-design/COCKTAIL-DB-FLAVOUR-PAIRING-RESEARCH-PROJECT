@@ -1,0 +1,10 @@
+column,dtype,n_unique,n_missing,pct_missing
+Name,str,14916,0,0.0
+Name.1,str,14916,0,0.0
+Category,str,430,9970,59.01154187629476
+Ingredients,str,16824,0,0.0
+Nutrients,str,5536,11201,66.29772121929565
+Ratings,float64,440,8878,52.54809115122817
+Votes,str,254,8890,52.61911808227286
+Prep_Time,str,68,9908,58.64456939923054
+Cuisine,str,19,16502,97.67386800828648

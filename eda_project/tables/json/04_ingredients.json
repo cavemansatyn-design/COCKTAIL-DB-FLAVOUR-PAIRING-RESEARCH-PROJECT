@@ -1,0 +1,206 @@
+{
+  "n_recipes": 16872,
+  "n_unique_standard": 14466,
+  "top30": [
+    {
+      "ingredient": "vodka",
+      "frequency": 2191,
+      "rank": 1,
+      "p": 0.1298601232811759
+    },
+    {
+      "ingredient": "lime juice",
+      "frequency": 1731,
+      "rank": 2,
+      "p": 0.10259601706970128
+    },
+    {
+      "ingredient": "lemon juice",
+      "frequency": 1652,
+      "rank": 3,
+      "p": 0.09791370317686107
+    },
+    {
+      "ingredient": "orange juice",
+      "frequency": 1326,
+      "rank": 4,
+      "p": 0.07859174964438122
+    },
+    {
+      "ingredient": "gin",
+      "frequency": 1245,
+      "rank": 5,
+      "p": 0.0737908961593172
+    },
+    {
+      "ingredient": "simple syrup",
+      "frequency": 1042,
+      "rank": 6,
+      "p": 0.06175912754860123
+    },
+    {
+      "ingredient": "pineapple juice",
+      "frequency": 910,
+      "rank": 7,
+      "p": 0.05393551446183025
+    },
+    {
+      "ingredient": "triple sec",
+      "frequency": 886,
+      "rank": 8,
+      "p": 0.05251303935514462
+    },
+    {
+      "ingredient": "ice",
+      "frequency": 750,
+      "rank": 9,
+      "p": 0.04445234708392603
+    },
+    {
+      "ingredient": "cranberry juice",
+      "frequency": 696,
+      "rank": 10,
+      "p": 0.041251778093883355
+    },
+    {
+      "ingredient": "coffee liqueur",
+      "frequency": 654,
+      "rank": 11,
+      "p": 0.0387624466571835
+    },
+    {
+      "ingredient": "tequila",
+      "frequency": 653,
+      "rank": 12,
+      "p": 0.038703176861071595
+    },
+    {
+      "ingredient": "white rum",
+      "frequency": 611,
+      "rank": 13,
+      "p": 0.03621384542437174
+    },
+    {
+      "ingredient": "lemonade",
+      "frequency": 578,
+      "rank": 14,
+      "p": 0.034257942152678994
+    },
+    {
+      "ingredient": "coconut rum",
+      "frequency": 559,
+      "rank": 15,
+      "p": 0.033131816026552866
+    },
+    {
+      "ingredient": "fresh lime juice",
+      "frequency": 524,
+      "rank": 16,
+      "p": 0.03105737316263632
+    },
+    {
+      "ingredient": "sugar",
+      "frequency": 519,
+      "rank": 17,
+      "p": 0.030761024182076813
+    },
+    {
+      "ingredient": "peach schnapps",
+      "frequency": 466,
+      "rank": 18,
+      "p": 0.027619724988146042
+    },
+    {
+      "ingredient": "grenadine syrup",
+      "frequency": 463,
+      "rank": 19,
+      "p": 0.027441915599810338
+    },
+    {
+      "ingredient": "rum",
+      "frequency": 460,
+      "rank": 20,
+      "p": 0.027264106211474633
+    },
+    {
+      "ingredient": "irish cream",
+      "frequency": 456,
+      "rank": 21,
+      "p": 0.02702702702702703
+    },
+    {
+      "ingredient": "fresh lemon juice",
+      "frequency": 453,
+      "rank": 22,
+      "p": 0.026849217638691324
+    },
+    {
+      "ingredient": "orange liqueur",
+      "frequency": 449,
+      "rank": 23,
+      "p": 0.026612138454243716
+    },
+    {
+      "ingredient": "apple juice",
+      "frequency": 424,
+      "rank": 24,
+      "p": 0.025130393551446185
+    },
+    {
+      "ingredient": "brandy",
+      "frequency": 421,
+      "rank": 25,
+      "p": 0.02495258416311048
+    },
+    {
+      "ingredient": "sweet vermouth",
+      "frequency": 397,
+      "rank": 26,
+      "p": 0.023530109056424844
+    },
+    {
+      "ingredient": "melon liqueur",
+      "frequency": 390,
+      "rank": 27,
+      "p": 0.023115220483641535
+    },
+    {
+      "ingredient": "sugar syrup",
+      "frequency": 388,
+      "rank": 28,
+      "p": 0.022996680891417733
+    },
+    {
+      "ingredient": "soda water",
+      "frequency": 373,
+      "rank": 29,
+      "p": 0.022107633949739212
+    },
+    {
+      "ingredient": "milk",
+      "frequency": 361,
+      "rank": 30,
+      "p": 0.021396396396396396
+    }
+  ],
+  "frequency_summary": {
+    "n": 14466,
+    "mean": 5.449052951748929,
+    "median": 1.0,
+    "std": 42.52604330215921,
+    "iqr": 1.0,
+    "min": 1.0,
+    "max": 2191.0,
+    "p10": 1.0,
+    "p90": 5.0,
+    "p95": 11.0,
+    "skewness": 27.59325485009347
+  },
+  "share_top10": 0.15767640118742546,
+  "share_top1": 0.1298601232811759,
+  "hapax_n": 10626,
+  "hapax_share_of_vocab": 0.7345499792617172,
+  "within_recipe_repeated_pairs": 494,
+  "top_ingredient": "vodka",
+  "top_frequency": 2191
+}

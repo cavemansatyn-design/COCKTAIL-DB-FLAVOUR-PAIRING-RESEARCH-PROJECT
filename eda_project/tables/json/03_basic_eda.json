@@ -1,0 +1,189 @@
+{
+  "ingredient_count": {
+    "n": 16872,
+    "mean": 4.672000948316738,
+    "median": 4.0,
+    "std": 1.8020538544237967,
+    "iqr": 3.0,
+    "min": 1.0,
+    "max": 22.0,
+    "p10": 3.0,
+    "p90": 7.0,
+    "p95": 8.0,
+    "skewness": 1.1167002548471998
+  },
+  "category": {
+    "n_nonmissing": 6925,
+    "n_unique": 429,
+    "top20": {
+      "Shots & Shooters": 535,
+      "Sour": 307,
+      "Margaritas": 233,
+      "Highball": 195,
+      "Spirit-Forward": 181,
+      "Tropical Cocktails": 157,
+      "Creamy & Eggy": 143,
+      "Tropical": 128,
+      "Dessert Drinks": 116,
+      "Candy Cocktails": 112,
+      "Fruity Cocktails": 110,
+      "Rum Cocktails": 106,
+      "Vodka Cocktails": 105,
+      "Strong Cocktails": 105,
+      "Pink Cocktails": 101,
+      "Gin Cocktails": 99,
+      "Blue Drinks": 98,
+      "Fresh Fruit & Herb": 90,
+      "Sexy Drinks": 72,
+      "Mojitos": 70
+    },
+    "top5_share": 0.2095306859205776,
+    "top20_share": 0.4423104693140794,
+    "n_to_50pct": 26,
+    "coverage_of_all_recipes": 0.410443338074917
+  },
+  "cuisine": {
+    "n_nonmissing": 393,
+    "pct": 2.329302987197724,
+    "n_unique": 18,
+    "counts": {
+      "Cocktails": 249,
+      "American": 97,
+      "Cocktail": 23,
+      "Mexican": 3,
+      "Mocktails": 3,
+      "Spanish": 3,
+      "Drink": 2,
+      "Punch": 2,
+      "Coffee": 2,
+      "Frozen": 1,
+      "Drinks": 1,
+      "Vegan": 1,
+      "Spanish inspired": 1,
+      "Cocktials": 1,
+      "Fall": 1,
+      "European": 1,
+      "Spanish Inspired": 1,
+      "Brazilian": 1
+    }
+  },
+  "rating": {
+    "n": 7890,
+    "mean": 4.316612222390114,
+    "median": 4.45,
+    "std": 0.441647202199261,
+    "iqr": 0.3199999999999994,
+    "min": 1.0,
+    "max": 5.0,
+    "p10": 3.6,
+    "p90": 4.68,
+    "p95": 5.0,
+    "skewness": -1.4405169467389138
+  },
+  "votes": {
+    "n": 7878,
+    "mean": 38.4042904290429,
+    "median": 30.0,
+    "std": 85.2845563152615,
+    "iqr": 25.0,
+    "min": 1.0,
+    "max": 4348.0,
+    "p10": 6.0,
+    "p90": 58.0,
+    "p95": 78.14999999999964,
+    "skewness": 25.10051843328358
+  },
+  "rating_vs_votes": {
+    "pearson": {
+      "n": 7878,
+      "r": -0.05958858423626164,
+      "p": 1.2043554736244104e-07
+    },
+    "spearman": {
+      "n": 7878,
+      "rho": -0.05771360863150054,
+      "p": 2.959468997206483e-07
+    },
+    "spearman_ci": {
+      "n": 7878,
+      "ci95": [
+        -0.08157368286926583,
+        -0.030059730233818565
+      ]
+    },
+    "low_vote_rating": {
+      "n": 540,
+      "mean": 4.556604938272222,
+      "median": 5.0,
+      "std": 0.668506734193422,
+      "iqr": 1.0,
+      "min": 1.0,
+      "max": 5.0,
+      "p10": 3.666666667,
+      "p90": 5.0,
+      "p95": 5.0,
+      "skewness": -1.5834962260158383
+    },
+    "high_vote_rating": {
+      "n": 1325,
+      "mean": 4.25449908915849,
+      "median": 4.43,
+      "std": 0.41000303964012524,
+      "iqr": 0.5199999999999996,
+      "min": 2.8,
+      "max": 5.0,
+      "p10": 3.5,
+      "p90": 4.6,
+      "p95": 4.67,
+      "skewness": -1.2083160324900546
+    },
+    "n_votes_le_3": 540,
+    "n_votes_ge_50": 1325,
+    "extreme_rating_share_low_votes": 0.6037037037037037,
+    "extreme_rating_share_high_votes": 0.005283018867924529
+  },
+  "prep": {
+    "n": 6976,
+    "mean": 7.948609518348624,
+    "median": 3.0,
+    "std": 246.3243114449302,
+    "iqr": 0.0,
+    "min": 0.0,
+    "max": 20170.0,
+    "p10": 3.0,
+    "p90": 5.0,
+    "p95": 10.0,
+    "skewness": 78.98478338552188
+  },
+  "prep_vs_size": {
+    "spearman": {
+      "n": 6976,
+      "rho": 0.3522766358441486,
+      "p": 5.940469673044982e-203
+    },
+    "spearman_ci": {
+      "n": 6976,
+      "ci95": [
+        0.3324295891922727,
+        0.37284437718635
+      ]
+    },
+    "n": 6976
+  },
+  "prep_vs_votes": {
+    "spearman": {
+      "n": 6082,
+      "rho": -0.2897524874681903,
+      "p": 5.916951470396557e-118
+    },
+    "spearman_ci": {
+      "n": 6082,
+      "ci95": [
+        -0.3173572925706958,
+        -0.26082386797614776
+      ]
+    },
+    "n": 6082
+  },
+  "n_frequency_corpus": 16872
+}

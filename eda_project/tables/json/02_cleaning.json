@@ -1,0 +1,52 @@
+{
+  "name_identical_to_name1": true,
+  "malformed_votes": 0,
+  "n_unrated_zero_stars": 116,
+  "decision_unrated_zeros": "All Rating=0 rows co-occur with Votes=0. Treated as unrated (rating_analyzed/votes_analyzed set to missing) rather than genuine zero-star ratings.",
+  "n_exact_duplicate_dropped_for_frequency": 17,
+  "n_name_ing_duplicate_dropped_for_frequency": 6,
+  "n_frequency_corpus": 16872,
+  "n_same_name_variants_retained": "see audit: names with different ingredients kept",
+  "prep_time_stats_minutes": {
+    "n": 6976,
+    "min": 0.0,
+    "median": 3.0,
+    "mean": 7.948609518348624,
+    "std": 246.3243114449302,
+    "iqr": 0.0,
+    "p90": 5.0,
+    "p95": 10.0,
+    "max": 20170.0
+  },
+  "prep_unparsed": 0,
+  "prep_zero": 44,
+  "prep_gt_1day": 4,
+  "prep_gt_6h": 6,
+  "vocab_by_level": {
+    "surface": {
+      "n_mentions": 79446,
+      "n_unique": 31180
+    },
+    "standard": {
+      "n_mentions": 79411,
+      "n_unique": 14466
+    },
+    "moderate": {
+      "n_mentions": 79394,
+      "n_unique": 12663
+    },
+    "core": {
+      "n_mentions": 79394,
+      "n_unique": 12480
+    }
+  },
+  "dropped_redundant_columns": [
+    "Name.1"
+  ],
+  "normalization_hierarchy": {
+    "surface": "lowercase and whitespace only",
+    "standard": "surface + strip quantities/units (main analyses)",
+    "moderate": "standard + garnish/prep descriptors",
+    "core": "moderate + ice collapse + drop fresh (sensitivity only)"
+  }
+}
